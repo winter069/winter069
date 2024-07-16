@@ -5,7 +5,7 @@ Student
 -------
 
 * 🌍  I'm based in สุพรรรณบุรี
-* 🖥️  See my portfolio at [facebook](http://www.facebook.com/สตกมล สัตบุษ)
+* 🖥️  See my portfolio at [facebook](http://www.facebook.com/สตกมลสัตบุษ)
 * ✉️  You can contact me at [satabuttsatabutt@gmail.com](mailto:satabuttsatabutt@gmail.com)
 * 🧠  I'm learning กำลังสนในการศึกษาเพิ่มทักษะสกิลเพย์เล่น elder ring
 
